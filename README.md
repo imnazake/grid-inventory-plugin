@@ -1,6 +1,6 @@
 # Grid Inventory System Plugin
 
-A grid based inventory system plugin and demo project for unreal engine.
+A grid based inventory system plugin and a sample project for unreal engine.
 <br>
 
 ##### Engine Version
