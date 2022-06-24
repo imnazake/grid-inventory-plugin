@@ -13,4 +13,4 @@ A grid based inventory system plugin and demo project for unreal engine.
 + Not Replicated
 
 #### Preview
-# ![](https://raw.githubusercontent.com/imneoxyne/grid-inventory-sample/master/Docs/Preview.gif)
+# ![](https://raw.githubusercontent.com/imneoxyne/grid-inventory-plugin/master/Docs/Preview.png)
