@@ -13,4 +13,4 @@ A grid based inventory system plugin and demo project for unreal engine.
 + Not Replicated
 
 #### Preview
-# ![](/Docs/Preview.png)
+# ![](/Docs/Preview.PNG)
