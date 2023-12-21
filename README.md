@@ -13,7 +13,7 @@ The Grid Inventory Plugin is a versatile solution for implementing a grid-based 
 - **Flexible Configuration:** Customize the grid size, item slots, and other parameters to fit your game's requirements.
 - **Convenient API:** Utilize the provided API for programmatic interaction with the inventory system.
 
-## Supported Engine Version
+## Supported Engine Versions
 
 4.26 or higher
 
