@@ -1,6 +1,6 @@
 # Grid Inventory Plugin
 
-The Grid Inventory Plugin is a versatile solution for implementing a grid-based inventory system in your Unreal Engine projects. It provides a flexible grid layout, item management, and includes a sample project to showcase integration.
+A simple grid-based inventory system developed for testing purposes. The project serves as a functional prototype and will require further optimization and refinement for production use.
 
 ##
 ![](/Docs/Preview.PNG)
